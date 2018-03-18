@@ -1,4 +1,4 @@
-# JordanianQaCommunity
+# Jordanian QA Community
 Automation Testing via Selenium Agenda
 
 Jordanian QA Community is a the first software quality assurance community in Jordan.
@@ -38,5 +38,22 @@ Jordanian QA Community is a the first software quality assurance community in Jo
 	- Variable Types In Java
 
 	I suggest this [channel](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) .
+* Download and install Selenium Webdriver with Eclipse
+* Downloading and installation Of TestNG with Eclipse
+* Download And Install Maven In Eclipse Step By Step
+* Creat Maven Project In Eclipse For Selenium WebDriver + TestNG
+* Learn Basic Action Commands And Operations 
+* Locate elements by ID, ClassName, Tag Name, Name, Link, CssSelector, Xpath
+* Running Selenium Test to Navigating to a Web Page using t In Firefox
+* Running Selenium Test to Navigating to a Web Page using Google Chrome Browser
+* Running Selenium Test to Navigating to a Web Page using  Internet Explorer Browser
+* Performing an Action on an HTML Element (Enter a user name and a password& submit a form)
+* Anticipating Browser Response(implicit and explicit wait)
+* Search for a world in google and click the first link
+* Do an assertion and verification
+* Create And Run First TestNG-WebDriver Test
+* Upload the Project to getHub and connect it to git Via SSH key
+
+
 
  
