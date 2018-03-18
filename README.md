@@ -24,18 +24,18 @@ Jordanian QA Community is a the first software quality assurance community in Jo
 * Selnium is open source software web application automation testing tool, it can helps you in software testing process. I have created series of assignment to help the beginners to start learning automation by monter the tasks and guide them to the right way. The Fist step will be in learning the [Introduction to Selenium History ](https://docs.google.com/presentation/d/1mGdcQtW1qdQMb6ggYB3_Lt_ySPHiCOUZPlzKDAge1cM/edit?usp=sharing
 ) also [Selenium](https://www.seleniumhq.org/) website will help a lot. 
 * In this course we are going to use Java language, the following are most importance:
-	_DataTypes in Java
-	_String Class In Java
-	_if, if else and nested if else In Java
-	_for loop In Java
-	_while, do while loops In Java
-	_One and two dimensional array In Java
-	_Methods In Java
-	_Access Modifiers In Java
-	_Return Type Of Method In Java
-	_Static, Non Static Methods, Variables In Java
-	_Object In Java
-	_Variable Types In Java
+	- DataTypes in Java
+	- String Class In Java
+	- if, if else and nested if else In Java
+	- for loop In Java
+	- while, do while loops In Java
+	- One and two dimensional array In Java
+	- Methods In Java
+	- Access Modifiers In Java
+	- Return Type Of Method In Java
+	- Static, Non Static Methods, Variables In Java
+	- Object In Java
+	- Variable Types In Java
 
 	I suggest this [channel](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) .
 
