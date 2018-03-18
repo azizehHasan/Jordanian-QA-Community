@@ -23,9 +23,11 @@ Jordanian QA Community is a the first software quality assurance community in Jo
 * Developers Team
 
 # Materials
-* Selenium is open source software web application automation testing tool, it can helps you in software testing process. I have created series of assignment to help the beginners to start learning automation by monitor the tasks. The Fist step will be in learning the [Introduction to Selenium History ](https://docs.google.com/presentation/d/1mGdcQtW1qdQMb6ggYB3_Lt_ySPHiCOUZPlzKDAge1cM/edit?usp=sharing
-) also [Selenium](https://www.seleniumhq.org/) website will help a lot. 
-* In this course we are going to use Java language, the following are most importance:
+
+* First Step* 
+
+* [Introduction to Selenium History ](https://docs.google.com/presentation/d/1mGdcQtW1qdQMb6ggYB3_Lt_ySPHiCOUZPlzKDAge1cM/edit?usp=sharing) also [Selenium](https://www.seleniumhq.org/) website will help a lot. 
+* Java language, the following are most importance:
 	- DataTypes in Java
 	- String Class In Java
 	- if, if else and nested if else In Java
@@ -39,7 +41,7 @@ Jordanian QA Community is a the first software quality assurance community in Jo
 	- Object In Java
 	- Variable Types In Java
 
-	I suggest this [channel](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) .
+	I suggest this [channel](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) . 
 * Download and install Selenium Webdriver with Eclipse
 * Downloading and installation Of TestNG with Eclipse
 * Download And Install Maven In Eclipse Step By Step
@@ -56,6 +58,9 @@ Jordanian QA Community is a the first software quality assurance community in Jo
 * Create And Run First TestNG-WebDriver Test
 * Upload the Project to getHub and connect it to git Via SSH key
 
+ *Second step
+
+ I will add more details in the comming days 
 
 
  
