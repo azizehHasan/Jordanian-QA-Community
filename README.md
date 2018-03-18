@@ -21,7 +21,7 @@ Jordanian QA Community is a the first software quality assurance community in Jo
 * Developers Team
 
 # Materials
-* Selnium is open source software web application automation testing tool, it can helps you in software testing process. I have created series of assignment to help the beginners to start learning automation by monter the tasks and guide them to the right way. The Fist step will be in learning the [Introduction to Selenium History ](https://docs.google.com/presentation/d/1mGdcQtW1qdQMb6ggYB3_Lt_ySPHiCOUZPlzKDAge1cM/edit?usp=sharing
+* Selenium is open source software web application automation testing tool, it can helps you in software testing process. I have created series of assignment to help the beginners to start learning automation by monter the tasks and guide them to the right way. The Fist step will be in learning the [Introduction to Selenium History ](https://docs.google.com/presentation/d/1mGdcQtW1qdQMb6ggYB3_Lt_ySPHiCOUZPlzKDAge1cM/edit?usp=sharing
 ) also [Selenium](https://www.seleniumhq.org/) website will help a lot. 
 * In this course we are going to use Java language, the following are most importance:
 	- DataTypes in Java
