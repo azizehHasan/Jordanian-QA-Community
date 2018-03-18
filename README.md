@@ -21,3 +21,7 @@ Jordanian QA Community is a the first software quality assurance community in Jo
 * Developers Team
 
 # Materials
+* [Introduction to Selenium History ](https://docs.google.com/presentation/d/1mGdcQtW1qdQMb6ggYB3_Lt_ySPHiCOUZPlzKDAge1cM/edit?usp=sharing
+)
+
+ 
