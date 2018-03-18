@@ -1,10 +1,10 @@
-  # Assignment number 1
+# Assignment number 1
   
- Here is the first assignment of this series of real-time scenario’s, to practice Selenium from Jordanian QA Community. This assignment mainly focusses on  how to invoke firefox browser, maximizing the window, navigate commands etc.
+Here is the first assignment of this series of real-time scenario’s, to practice Selenium from Jordanian QA Community. This assignment mainly focusses on  how to invoke firefox browser, maximizing the window, navigate commands etc.
 
 Note: If you are very new to selenium, go through Environment setup for Selenium WebDriver. GOOGLE IT PEOPLE!
 
-##Scenario:
+## Scenario:
 
 * Open Firefox Browser.
 * Maximize the browser window.
