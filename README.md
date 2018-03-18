@@ -1,6 +1,8 @@
 # Jordanian QA Community
 Automation Testing via Selenium Agenda
 
+Fill the [form](https://goo.gl/forms/qbx1fzCTPWFI8vbi2) to get the latest update.
+
 Jordanian QA Community is a the first software quality assurance community in Jordan.
 
 # Why we introduced the Idea?
