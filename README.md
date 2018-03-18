@@ -24,7 +24,7 @@ Jordanian QA Community is a the first software quality assurance community in Jo
 
 # Materials
 
-h1. First Step
+## First Step
 
 * [Introduction to Selenium History ](https://docs.google.com/presentation/d/1mGdcQtW1qdQMb6ggYB3_Lt_ySPHiCOUZPlzKDAge1cM/edit?usp=sharing) also [Selenium](https://www.seleniumhq.org/) website will help a lot. 
 * Java language, the following are most importance:
@@ -58,7 +58,7 @@ h1. First Step
 * Create And Run First TestNG-WebDriver Test
 * Upload the Project to getHub and connect it to git Via SSH key
 
-h2. Second step
+## Second step
 
  I will add more details in the comming days 
 
