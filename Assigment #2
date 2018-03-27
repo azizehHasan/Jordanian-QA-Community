@@ -1,0 +1,15 @@
+Scenario:
+Open chrome browser.
+Navigate to “http://www.fb.com”
+Verify that page is redirected to “http://www.facebook.com”, by getting the current url.
+Verify that there is a “Create an account” section on the page.
+Fill in the text boxes: First Name, Surname, Mobile Number or email address, “Re-enter mobile number”, new password.
+Update the date of birth in the dropdown.
+Select the gender.
+Click on “Create an account”.
+Verify that Account is created successfully.
+facebookSignup
+
+Try this. Send us the code for feedback and assessment or if you have any questions, queries or comments.
+
+Till then, Keep Learning 🙂
